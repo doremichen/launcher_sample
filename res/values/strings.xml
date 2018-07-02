@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LauncherSample</string>
+    <string name="hello_world">Hello welcome to launcher demo. You can press the button as the following.</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_start_list_app">List App</string>
+
+</resources>
